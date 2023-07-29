@@ -1,0 +1,1 @@
+# Testing Git diff with --cached flag
